@@ -1,0 +1,10 @@
+body {
+   font-family: 'Cairo', sans-serif;
+}
+.card {
+   transition: transform 0.2s ease;
+}
+.student-item {
+   border-right: 4px solid #0d6efd;
+   background-color: #f8f9fa;
+}
